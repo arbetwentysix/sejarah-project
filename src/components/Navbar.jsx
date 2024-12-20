@@ -31,6 +31,9 @@ export default function Navbar() {
           </summary>
           <ul className="menu dropdown-content rounded-box z-[1] w-52 p-2 bg-dark-eiron">
             <li className="hover:text-gray-500">
+              <a href="/">Home</a>
+            </li>
+            <li className="hover:text-gray-500">
               <a href="/gallery">Gallery</a>
             </li>
             <li className="hover:text-gray-500">
