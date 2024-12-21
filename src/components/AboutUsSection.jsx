@@ -13,7 +13,7 @@ export default function AboutUsSection() {
             <img src={Jabbar} className="mb-3 lg:w-[900px] scale-[1.1] translate-y-4 hover:scale-[1.4] transition" alt="jabbar" />
           </div>
           <p className="text-slate-100 text-lg font-semibold">Ilham Jabbar</p>
-          <p className="text-gray-500 mb-3">BNN (Bagian Nyantai-Nyantai)</p>
+          <p className="text-gray-500 mb-3">Sipaling UI dan Designer</p>
           <div className="text-slate-100 flex items-center gap-2 text-sm">
             <PiArrowBendDownRightBold />
             <a href="/about/jabbar" className="bg-gray-800 px-3 py-1 rounded-lg">
